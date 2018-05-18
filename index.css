@@ -1,0 +1,72 @@
+#cover {
+  background-color:#003056;
+}
+
+#cover h2 {
+  margin:30px 0 0;
+  color:#F2D03B;
+  text-align:center;
+  font-size:70px;
+}
+
+#cover p {
+  margin:10px 0 0;
+  text-align:center;
+  color:lightgray;
+  font-style:italic;
+  font-size:20px;
+}
+
+#cover p a {
+  color:#FFF;
+}
+
+.output {
+  background-color: lightgray;
+  padding: 16px;
+  width: 30%;
+  text-align: center;
+}
+
+li.medium {
+  font-size: 38px;
+}
+
+blockquote.place.matz-quote {
+  left: 70%;
+}
+
+p.matz-quote {
+  font-weight: 600;
+  position: absolute;
+  bottom: 26%;
+  right: 10%;
+}
+
+a#btn-download-ruby {
+    background: #CC342D url(pictures/download-ruby.png) no-repeat 8px center;
+    background-size: 30px 25px;
+    color: white;
+    padding: 8px 20px 8px 45px;
+    font-size: 16px;
+    line-height: 20px;
+    text-decoration: none;
+    text-shadow: none;
+    border: 2px solid #9b1c16;
+    font-weight: normal;
+    border-radius: 6px;
+    box-shadow: 0 2px 0 #9b1c16;
+}
+
+img#mvc {
+  display: block;
+  margin: auto;
+  width: 90%;
+}
+
+#thanks {
+  position: absolute;
+  top: 35%;
+  left: 20%;
+  text-align: center;
+}
