@@ -70,3 +70,7 @@ img#mvc {
   left: 20%;
   text-align: center;
 }
+
+.slide#cover::after {
+  content: unset;
+}
